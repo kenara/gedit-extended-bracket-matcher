@@ -1,0 +1,8 @@
+[Plugin]
+Name=Extended Bracket Matcher
+Description=Displays the matching bracket's line number, even in very large code blocks
+Authors=Ken Ara
+Version=1.0
+Website=https://github.com/kenara/gedit-extended-bracket-matcher
+Loader=python3
+Module=extendedbrackets
