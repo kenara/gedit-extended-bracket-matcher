@@ -38,6 +38,25 @@ cp -r gedit-extended-bracket-matcher ~/.local/share/gedit/plugins/extendedbracke
 
 ---
 
+
+## 🤔 Why Extend Bracket Matching?
+
+Some developers may ask: “Shouldn't functions be short enough that you don’t need to match across thousands of lines?”
+
+Absolutely — in an ideal world.
+
+But in reality, we often work with:
+
+- Legacy code that’s grown organically
+- Auto-generated or third-party modules
+- Large configuration or UI definition files
+- In-progress refactoring efforts
+
+This plugin exists to help you **understand and break apart** large structures safely, so you can improve them — not to encourage writing huge blocks.
+
+If you work with large codebases and want a lightweight editor like Gedit to support your workflow, this plugin is for you.
+
+
 ## 📝 License
 
 This plugin is licensed under the [MIT License](LICENSE).
